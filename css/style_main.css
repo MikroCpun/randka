@@ -70,7 +70,7 @@ body{
     gap: 50px;
     flex-wrap: wrap;
     width: 100%;
-    width-max: 1200px;
+    width-max: 1500px;
     justify-content: center;
     margin-top: 4vh;
 }
