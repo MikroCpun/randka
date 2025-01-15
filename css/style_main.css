@@ -39,7 +39,7 @@ body{
 
 #catsweating{
     width: 250px;
-    position: absolute;
+    padding-top: 100px;
     bottom: 100px;
 }
 
@@ -65,15 +65,14 @@ body{
 
 
 .photo_gallery{
-	display: flex;
+    display: flex;
     text-align: center;
     gap: 50px;
     flex-wrap: wrap;
-    max-width: 1200px;
+    width: 100%;
+    width-max: 1200px;
     justify-content: center;
     margin-top: 4vh;
-    overflow: auto;
-    width: 100%;
 }
 
 .photo_gallery #rozciagnij{
