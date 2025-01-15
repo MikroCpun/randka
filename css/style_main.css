@@ -72,7 +72,7 @@ body{
     max-width: 1200px;
     justify-content: center;
     margin-top: 4vh;
-    overflow: scroll;
+    overflow: auto;
     width: 100%;
 }
 
