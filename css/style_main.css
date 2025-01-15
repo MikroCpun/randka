@@ -82,7 +82,7 @@ body{
     object-fit: cover;
 }
 
-.maczek, .spacer, .kino, .kregle, .golf{
+.maczek, .spacer, .kino, .kregle, .golf, .łyżwy{
     padding: 15px;
     border: 2px solid rgb(255, 255, 255);
 }
